@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Aston_DZ_3</string>
+    <string name="first_task">Задание №1</string>
+    <string name="second_task">Задание №2</string>
+    <string name="switzerland">Швейцария</string>
+    <string name="denmark">Дания</string>
+    <string name="thailand">Таиланд</string>
+    <string name="madagaskar">Мадагаскар</string>
+    <string name="colombia">Колумбия</string>
+    <string name="italy">Италия</string>
+    <string name="poland">Польша</string>
+    <string name="austria">Австрия</string>
+    <string name="title_activity_util">UtilActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="image_hint">Введите ссылку на картинку</string>
+    <string name="picasso">Picasso</string>
+    <string name="coil">Coil</string>
+    <string name="glide">Glide</string>
+</resources>
